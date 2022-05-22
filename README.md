@@ -14,4 +14,4 @@ Los tres proyectos son:
 - Cripto.
 
 
-© Todos los derechos reservados a CobosCode24
+© Todos los derechos reservados a CobosCode24, 2022
